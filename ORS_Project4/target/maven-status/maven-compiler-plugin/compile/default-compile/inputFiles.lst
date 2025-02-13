@@ -13,6 +13,7 @@ D:\ORS_Workspace\ORS_Project4\src\main\java\com\rays\proj4\Test\StudentTest.java
 D:\ORS_Workspace\ORS_Project4\src\main\java\com\rays\pro4\controller\UserCtl.java
 D:\ORS_Workspace\ORS_Project4\src\main\java\com\rays\pro4\controller\ForgetPasswordCtl.java
 D:\ORS_Workspace\ORS_Project4\src\main\java\com\rays\pro4\controller\MarksheetMeritListCtl.java
+D:\ORS_Workspace\ORS_Project4\src\main\java\com\rays\pro4\Bean\TradeBean.java
 D:\ORS_Workspace\ORS_Project4\src\main\java\com\rays\pro4\Model\RoleModel.java
 D:\ORS_Workspace\ORS_Project4\src\main\java\com\rays\pro4\Exception\RecordNotFoundException.java
 D:\ORS_Workspace\ORS_Project4\src\main\java\com\rays\pro4\Model\MarksheetModel.java
@@ -27,11 +28,13 @@ D:\ORS_Workspace\ORS_Project4\src\main\java\com\rays\pro4\Bean\RoleBean.java
 D:\ORS_Workspace\ORS_Project4\src\main\java\com\rays\pro4\controller\MarksheetListCtl.java
 D:\ORS_Workspace\ORS_Project4\src\main\java\com\rays\pro4\Bean\UserBean.java
 D:\ORS_Workspace\ORS_Project4\src\main\java\com\rays\pro4\Model\BaseModel.java
+D:\ORS_Workspace\ORS_Project4\src\main\java\com\rays\pro4\Model\TradeModel.java
 D:\ORS_Workspace\ORS_Project4\src\main\java\com\rays\pro4\Util\JDBCDataSource.java
 D:\ORS_Workspace\ORS_Project4\src\main\java\com\rays\pro4\controller\BaseCtl.java
 D:\ORS_Workspace\ORS_Project4\src\main\java\com\rays\pro4\Util\PropertyReader.java
 D:\ORS_Workspace\ORS_Project4\src\main\java\com\rays\pro4\controller\FacultyCtl.java
 D:\ORS_Workspace\ORS_Project4\src\main\java\com\rays\pro4\Model\TimeTableModel.java
+D:\ORS_Workspace\ORS_Project4\src\main\java\com\rays\pro4\controller\TradeListCtl.java
 D:\ORS_Workspace\ORS_Project4\src\main\java\com\rays\pro4\Exception\ApplicationException.java
 D:\ORS_Workspace\ORS_Project4\src\main\java\com\rays\pro4\Bean\TimeTableBean.java
 D:\ORS_Workspace\ORS_Project4\src\main\java\com\rays\pro4\Model\UserModel.java
@@ -43,6 +46,7 @@ D:\ORS_Workspace\ORS_Project4\src\main\java\com\rays\pro4\controller\TimeTableLi
 D:\ORS_Workspace\ORS_Project4\src\main\java\com\rays\proj4\Test\RoleTest.java
 D:\ORS_Workspace\ORS_Project4\src\main\java\com\rays\pro4\Util\EmailUtility.java
 D:\ORS_Workspace\ORS_Project4\src\main\java\com\rays\pro4\controller\FrontControler.java
+D:\ORS_Workspace\ORS_Project4\src\main\java\com\rays\pro4\controller\TradeCtl.java
 D:\ORS_Workspace\ORS_Project4\src\main\java\com\rays\pro4\Bean\MarksheetBean.java
 D:\ORS_Workspace\ORS_Project4\src\main\java\com\rays\pro4\controller\UserRegistrationCtl.java
 D:\ORS_Workspace\ORS_Project4\src\main\java\com\rays\pro4\Util\ServletUtility.java

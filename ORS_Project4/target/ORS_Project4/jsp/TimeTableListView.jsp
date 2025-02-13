@@ -91,7 +91,7 @@
 	List list = ServletUtility.getList(request);
 	Iterator<TimeTableBean> it = list.iterator();
 	 
-	if(list.size() !=0){
+	if(list.size() != 0){
 
 	%>
 	

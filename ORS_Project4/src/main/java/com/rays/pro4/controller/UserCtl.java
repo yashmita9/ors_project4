@@ -85,8 +85,7 @@ public class UserCtl extends BaseCtl {
 		if (DataValidator.isNull(request.getParameter("login"))) {
 			request.setAttribute("login", PropertyReader.getValue("error.require", "Login Id"));
 			pass = false;
-		} else if (DataValidator.isNotNull(request.getParameter("login"))
-				&& !DataValidator.isEmail(request.getParameter("login"))) {
+		} else if (!DataValidator.isEmail(request.getParameter("login"))) {
 			request.setAttribute("login", "LoginId is invalid emailId");
 			pass = false;
 		}
@@ -211,7 +210,7 @@ public class UserCtl extends BaseCtl {
 			UserBean bean;
 			try {
 				bean = model.findByPK(id);
-				System.out.println("Ankit11111111111");
+				
 				System.out.println(bean);
 				ServletUtility.setBean(bean, request);
 			} catch (ApplicationException e) {
@@ -299,7 +298,7 @@ public class UserCtl extends BaseCtl {
 		} else if (OP_CANCEL.equalsIgnoreCase(op)) {
 			System.out.println(" U  ctl Do post 77777");
 
-			ServletUtility.redirect(ORSView.USER_CTL, request, response);
+			ServletUtility.redirect(ORSView.USER_LIST_CTL, request, response);
 			return;
 		}
 		ServletUtility.forward(getView(), request, response);

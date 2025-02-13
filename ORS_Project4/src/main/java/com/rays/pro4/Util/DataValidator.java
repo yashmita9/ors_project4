@@ -158,6 +158,15 @@ public class DataValidator {
 			return false;
 		}
 	}
+	public static boolean isLength(String val, int len) {
+
+		if (val.length() >= len) {
+			return true;
+		} else {
+			return false;
+		}
+	}
+	
 
 	/**
 	 * Checks if value is Date

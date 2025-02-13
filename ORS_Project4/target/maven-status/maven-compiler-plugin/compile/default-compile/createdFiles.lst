@@ -12,6 +12,7 @@ com\rays\pro4\Bean\FacultyBean.class
 com\rays\proj4\Test\SubjectTest.class
 com\rays\proj4\Test\TimeTableTest.class
 com\rays\pro4\Exception\DuplicateRecordException.class
+com\rays\pro4\controller\TradeListCtl.class
 com\rays\pro4\Model\FacultyModel.class
 com\rays\pro4\Util\PropertyReader.class
 com\rays\pro4\controller\StudentListCtl.class
@@ -38,6 +39,7 @@ com\rays\pro4\controller\FrontControler.class
 com\rays\pro4\controller\LoginCtl.class
 com\rays\pro4\Model\RoleModel.class
 com\rays\pro4\Util\DataUtility.class
+com\rays\pro4\Bean\TradeBean.class
 com\rays\pro4\controller\CourseListCtl.class
 com\rays\pro4\Model\CollegeModel.class
 com\rays\pro4\controller\SubjectListCtl.class
@@ -58,6 +60,7 @@ com\rays\pro4\controller\RoleCtl.class
 com\rays\pro4\Bean\StudentBean.class
 com\rays\pro4\controller\StudentCtl.class
 com\rays\pro4\controller\GetMarksheetCtl.class
+com\rays\pro4\controller\TradeCtl.class
 com\rays\pro4\Model\SubjectModel.class
 com\rays\pro4\controller\ChangePasswordCtl.class
 com\rays\pro4\Exception\RecordNotFoundException.class
@@ -65,6 +68,7 @@ com\rays\pro4\controller\CourseCtl.class
 com\rays\pro4\Exception\ApplicationException.class
 com\rays\pro4\Bean\TimeTableBean.class
 com\rays\pro4\Bean\DropdownListBean.class
+com\rays\pro4\Model\TradeModel.class
 com\rays\pro4\Bean\CollegeBean.class
 com\rays\proj4\Test\Coursetest.class
 com\rays\pro4\controller\TimeTableListCtl.class

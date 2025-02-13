@@ -49,7 +49,11 @@ public interface ORSView {
 		 public String TIMETABLE_LIST_VIEW = PAGE_FOLDER + "/TimeTableListView.jsp";
 		 public String ERROR_VIEW = PAGE_FOLDER + "/ErrorView.jsp";
 		 //   public String ERROR_VIEW5 = PAGE_FOLDER + "/ErrorView5.jsp";
-		    
+		 public String TRADE_VIEW = PAGE_FOLDER + "/TradeView.jsp";
+		 public String TRADE_LIST_VIEW = PAGE_FOLDER + "/TradeListView.jsp";
+		 public String CUSTOMER_VIEW = PAGE_FOLDER + "/CustomerView.jsp";
+		 public String CUSTOMER_LIST_VIEW = PAGE_FOLDER + "/CustomerListView.jsp";
+		 
 
 	
 	    public String MARKSHEET_CTL = APP_CONTEXT + "/ctl/MarksheetCtl";
@@ -81,5 +85,11 @@ public interface ORSView {
 		public String TIMETABLE_CTL = APP_CONTEXT + "/ctl/TimeTableCtl";
 	    public String TIMETABLE_LIST_CTL = APP_CONTEXT + "/ctl/TimeTableListCtl";
 	    public String ERROR_CTL = APP_CONTEXT + "/ErrorCtl";
+	    
+	    public String TRADE_CTL = APP_CONTEXT + "/ctl/TradeCtl";
+	    public String TRADE_LIST_CTL = APP_CONTEXT + "/ctl/TradeListCtl";
+	    public String CUSTOMER_CTL = APP_CONTEXT + "/ctl/CustomerCtl";
+	    public String CUSTOMER_LIST_CTL = APP_CONTEXT + "/ctl/CustomerListCtl";
+	  
 	
 }
