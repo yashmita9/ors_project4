@@ -26,7 +26,7 @@ import com.rays.pro4.Util.ServletUtility;
  * Customer List functionality Controller. Performs operation for list, search
  * and delete operations of Customer
  * 
- * @author Megha Patidar
+ * @author Yashmita Rathore
  */
 
 @WebServlet(name = "CustomerListCtl", urlPatterns = { "/ctl/CustomerListCtl" })

@@ -16,6 +16,7 @@ com\rays\pro4\controller\TradeListCtl.class
 com\rays\pro4\Model\FacultyModel.class
 com\rays\pro4\Util\PropertyReader.class
 com\rays\pro4\controller\StudentListCtl.class
+com\rays\pro4\Bean\CustomerBean.class
 com\rays\pro4\Util\HTMLUtility.class
 com\rays\pro4\Model\MarksheetModel.class
 com\rays\pro4\Bean\BaseBean.class
@@ -25,6 +26,7 @@ com\rays\pro4\controller\CollegeCtl.class
 com\rays\pro4\controller\UserRegistrationCtl.class
 com\rays\pro4\controller\ORSView.class
 com\rays\pro4\controller\FacultyCtl.class
+com\rays\pro4\controller\CustomerCtl.class
 com\rays\pro4\controller\MarksheetMeritListCtl.class
 com\rays\proj4\Test\CollegeModelTest.class
 com\rays\pro4\controller\UserListCtl.class
@@ -37,6 +39,7 @@ com\rays\pro4\Model\UserModel.class
 com\rays\pro4\controller\TimeTableCtl.class
 com\rays\pro4\controller\FrontControler.class
 com\rays\pro4\controller\LoginCtl.class
+com\rays\pro4\Model\CustomerModel.class
 com\rays\pro4\Model\RoleModel.class
 com\rays\pro4\Util\DataUtility.class
 com\rays\pro4\Bean\TradeBean.class
@@ -70,6 +73,7 @@ com\rays\pro4\Bean\TimeTableBean.class
 com\rays\pro4\Bean\DropdownListBean.class
 com\rays\pro4\Model\TradeModel.class
 com\rays\pro4\Bean\CollegeBean.class
+com\rays\pro4\controller\CustomerListCtl.class
 com\rays\proj4\Test\Coursetest.class
 com\rays\pro4\controller\TimeTableListCtl.class
 com\rays\pro4\Model\TimeTableModel.class
