@@ -174,6 +174,7 @@
 				</tr>
 			</table>
 			<%
+				}
 				if (list.size() == 0) {
 			%>
 			<td align="center"><input type="submit" name="operation"
@@ -185,9 +186,7 @@
 			<input type="hidden" name="pageNo" value="<%=pageNo%>"> <input
 				type="hidden" name="pageSize" value="<%=pageSize%>">
 
-			<%
-				}
-			%>
+			
 		
 	</form>
 	</br>
