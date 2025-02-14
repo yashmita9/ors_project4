@@ -26,7 +26,7 @@
 			%>
 				<tr><th>Update Course</th></tr>
 			<%}else{ %>
-				<tr><th>Add Course</th></tr>
+				<tr><th>Add Course2</th></tr>
 			<% } %>
 			</h1>
 	<div align="center">	
