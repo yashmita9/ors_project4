@@ -57,7 +57,7 @@
 						} else {
 					%>
 					<tr>
-						<th><font size="5px"> Add Customer 70</font></th>
+						<th><font size="5px"> Add Customer</font></th>
 					</tr>
 					<%
 						}
