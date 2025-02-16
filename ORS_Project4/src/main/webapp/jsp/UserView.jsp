@@ -49,7 +49,7 @@
            		<% if(bean != null && bean.getId() > 0) { %>
             <tr><th><font size="5px"> Update User </font>  </th></tr>
             	<%}else{%>
-			<tr><th><font size="5px">Yashmita</font>  </th></tr>            
+			<tr><th><font size="5px">Add User</font>  </th></tr>            
             	<%}%>
             </h1>
    
