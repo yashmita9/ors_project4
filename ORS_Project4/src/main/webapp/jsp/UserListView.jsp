@@ -29,7 +29,7 @@
 		<center>
 
 			<div align="center">
-				<h1>User List</h1>
+				<h1>User List 70</h1>
 				<h3>
 					<font color="red"><%=ServletUtility.getErrorMessage(request)%></font>
 					<font color="green"><%=ServletUtility.getSuccessMessage(request)%></font>
